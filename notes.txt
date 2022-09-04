@@ -15,5 +15,6 @@ ownership standard
 
 renounce ownership, owner of smart contract = null 
 
+to make our collection visible on oopensea, we haevto create a metadata endpoint 
+This endpoint would return the metadata for an NFT given its tokenId.
 
-we
